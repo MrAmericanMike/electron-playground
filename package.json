@@ -1,0 +1,29 @@
+{
+	"name": "electronplayground",
+	"version": "0.0.1",
+	"description": "Electron Playground",
+	"main": "src/main.js",
+	"scripts": {
+		"start": "electron ."
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/MrAmericanMike/electron-playground.git"
+	},
+	"keywords": [
+		"electron",
+		"playground"
+	],
+	"author": "MrAmericanMike",
+	"license": "UNLICENSED",
+	"bugs": {
+		"url": "https://github.com/MrAmericanMike/electron-playground/issues"
+	},
+	"homepage": "https://github.com/MrAmericanMike/electron-playground#readme",
+	"devDependencies": {
+		"electron": "^11.0.3"
+	},
+	"dependencies": {
+		"flag-icon-css": "^3.5.0"
+	}
+}
