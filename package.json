@@ -21,9 +21,9 @@
 	},
 	"homepage": "https://github.com/MrAmericanMike/electron-playground#readme",
 	"devDependencies": {
-		"electron": "^11.0.3"
+		"electron": "32.1.2"
 	},
 	"dependencies": {
-		"flag-icon-css": "^3.5.0"
+		"flag-icons": "7.2.3"
 	}
 }
